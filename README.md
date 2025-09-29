@@ -20,6 +20,6 @@ This is the copyright section (2025 Git.Learning). All Rights Reserved.
 
 ## Collaboration
 
-Help me to complete this file by collaborating. Send your email through mine in humans.txt
+Help me to complete this file by collaborating. Use your gmail ids to send me an email.`
 
 ## End of File
