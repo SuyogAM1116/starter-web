@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Suyog	suyog@git.training	@kirito
 
 # THANKS
 
