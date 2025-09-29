@@ -14,4 +14,8 @@ This is a introduction to my project.
 
 This is the min deployment ideas for the application. Your reviews are appreciated.
 
+## Copyright
+
+This is the copyright section (2025 Git.Learning)
+
 ## End of File
