@@ -18,4 +18,8 @@ This is the min deployment ideas for the application. Your reviews are appreciat
 
 This is the copyright section (2025 Git.Learning)
 
+## Collaboration
+
+Help me to complete this file by collaborating. Send your email through mine in humans.txt
+
 ## End of File
