@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-This is a introduction to my project.
+This is a introduction to my project. 
 
 ## Deployment
 
@@ -16,7 +16,7 @@ This is the min deployment ideas for the application. Your reviews are appreciat
 
 ## Copyright
 
-This is the copyright section (2025 Git.Learning)
+This is the copyright section (2025 Git.Learning). All Rights Reserved.
 
 ## Collaboration
 
